@@ -836,9 +836,7 @@ margin-right: 120px;
 
 .checkbox {
   margin-bottom: 24px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
+  
 }
 
 .modal-check-text {
@@ -875,15 +873,8 @@ margin-right: 120px;
   display: block;
   margin: 0 auto;
 }
-.button {
-  background-color: #4d5ae5;
-  color: #ffffff;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  line-height: 1.5;
-  padding: 16px 32px;
-  border-radius: 4px;
+.modal-check:checked + .modal-check-text .modal-check-item {
+  background-color: #404bbf;
   border: none;
-  min-width: 169px;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  fill: #f4f4fd;
 }
