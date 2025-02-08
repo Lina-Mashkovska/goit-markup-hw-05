@@ -592,6 +592,7 @@ margin-right: 120px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   color: #ffffff;
   margin: 0;
+  min-width: 165px; 
 }
 
 
@@ -816,16 +817,16 @@ margin-right: 120px;
 
 
 
-.footer-button-close :hover,
-.footer-button-close :focus{
+.modal-button-close :hover,
+.modal-button-close :focus{
   background-color: #404bbf;
   border: none;
   fill: #ffffff;
 
 }
 
-.footer-button-close:hover .footer-button-icon,
-.footer-button-close:focus .footer-button-icon {
+.modal-button-close:hover .footer-button ,
+.modal-button-close:focus .footer-button {
   fill: #ffffff;
 }
 
