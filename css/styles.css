@@ -642,11 +642,12 @@ margin-right: 120px;
   line-height: 200%;
   letter-spacing: 0.04em;
   color: #ffffff;
+  min-width: 165px
 }
 
 .footer-subscribe {
   margin-left: 80px;
-
+ 
 }
 
 
