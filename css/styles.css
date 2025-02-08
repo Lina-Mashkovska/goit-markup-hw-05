@@ -617,11 +617,13 @@ margin-right: 120px;
 .footer-form {
   display: flex;
   gap: 24px;
+  min-width: 165px
 }
 
 
 .icon-telegram {
   margin-left: 16px;
+  
 }
 
 .button {
@@ -642,7 +644,7 @@ margin-right: 120px;
   line-height: 200%;
   letter-spacing: 0.04em;
   color: #ffffff;
-  min-width: 165px
+ 
 }
 
 .footer-subscribe {
