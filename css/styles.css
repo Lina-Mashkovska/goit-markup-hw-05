@@ -680,9 +680,7 @@ margin-right: 120px;
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  
-  transition:  opacity 250ms cubic-bezier(0.04, 0, 0.2, 1),
-  visibility 250ms cubic-bezier(0.04, 0, 0.2, 1);
+  transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 250ms cubic-bezier(0.4, 0, 0.2, 1); 
   } 
 
 .modal {
@@ -865,7 +863,8 @@ margin-right: 120px;
 }
 
 .modal-com {
-  margin-bottom: 16px; 
+  margin-bottom: 16px;
+
 }
 
 
