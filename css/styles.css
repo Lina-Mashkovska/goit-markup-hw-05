@@ -818,19 +818,11 @@ margin-right: 120px;
 
 
 
-.modal-button-close :hover,
-.modal-button-close :focus{
+.modal-button-close:hover,
+.modal-button-close:focus{
   background-color: #404bbf;
   border: none;
-  fill: #ffffff;
-
 }
-
-.modal-button-close:hover .footer-button ,
-.modal-button-close:focus .footer-button {
-  fill: #ffffff;
-}
-
 
 
 
