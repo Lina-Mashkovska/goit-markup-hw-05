@@ -864,7 +864,9 @@ margin-right: 120px;
   color: rgba(46, 47, 66, 0.4);
 }
 
-
+.modal-com {
+  margin-bottom: 16px; 
+}
 
 
 .checkbox {
