@@ -608,7 +608,7 @@ margin-right: 120px;
   
 }
 .icon-cover {
-  min-width: 165px; 
+  
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
@@ -639,7 +639,7 @@ margin-right: 120px;
   border-radius: 4px;
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  min-width: 165px;
+  min-width: 169px;
 }
 
 .footer-input::placeholder {
