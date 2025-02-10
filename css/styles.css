@@ -814,6 +814,16 @@ margin-right: 120px;
   background-color: #404bbf;
   border: none;
 }
+ 
+.modal-button-close:hover > .icon-close {
+  fill: #ffffff
+
+}
+  
+.modal-button-close:focus > .icon-close {
+  fill: #ffffff
+}
+
 
 
 
@@ -823,6 +833,13 @@ margin-right: 120px;
   letter-spacing: 0.04em;
   color: #ffffff;
 }
+
+
+.input-modal:focus {
+  border-color: #4D5AE5; 
+}
+
+
 
 .input-modal:focus + .input-modal-icon {
   fill: #4D5AE5;
