@@ -824,7 +824,9 @@ margin-right: 120px;
   color: #ffffff;
 }
 
-
+.input-modal:focus + .input-modal-icon {
+  fill: #4D5AE5;
+}
 
 .modal-textarea {
   width: 100%;
@@ -896,7 +898,7 @@ margin-right: 120px;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
 }
-.button-button-send{
+.button-button-send { 
 
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
