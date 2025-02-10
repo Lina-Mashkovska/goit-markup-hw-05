@@ -592,7 +592,7 @@ margin-right: 120px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   color: #ffffff;
   margin: 0;
-  min-width: 165px; 
+  
 }
 
 
@@ -600,13 +600,13 @@ margin-right: 120px;
   display: flex;
   align-items: center;
   gap: 16px;
-  min-width: 165px; 
   height: 40px;
   justify-content: center;
+  min-width: 165px;
   
 }
 .icon-cover {
-  min-width: 165px; 
+ 
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.02em;
@@ -850,7 +850,7 @@ margin-right: 120px;
 }
 
 
-.modal-textarea :focus {
+.modal-textarea:{
  border-color: #4d5ae5; 
 
 }
