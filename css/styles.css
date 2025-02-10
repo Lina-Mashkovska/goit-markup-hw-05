@@ -577,7 +577,7 @@ margin-right: 120px;
   display: flex;
   align-items: baseline;
   line-height: 1.5;
-  min-width: 165px; 
+  
 }
 
 .footer-input {
@@ -620,7 +620,7 @@ margin-right: 120px;
 .footer-form {
   display: flex;
   gap: 24px;
- 
+
 }
 
 
