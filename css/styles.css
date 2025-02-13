@@ -616,7 +616,7 @@ margin-right: 120px;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+ 
   
   
 }
@@ -774,9 +774,6 @@ margin-right: 120px;
 .modal-box {
   margin-bottom: 8px;
 }
-
-
-
 
 
 
